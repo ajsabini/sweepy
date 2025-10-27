@@ -1,0 +1,212 @@
+[
+  {
+    "titulo": "Senior Project Manager",
+    "url": "https://www.switchsoftware.io/careers-position/senior-project-manager",
+    "requisitos": [
+      "10+ years of experience working as Project Manager",
+      "Advanced English level",
+      "Prior experience in the insurance, reinsurance business or banking/finance",
+      "Experience with successful Agile techniques / Ability to work with and lead Agile Teams.",
+      "Notions of Software Architecture, such as high-level Flowcharts",
+      "Skilled at communicating with colleagues with different skill sets & experience",
+      "Excellent written and presentation skills to easily convey complex ideas to Executives",
+      "Excellent leadership, collaboration, and influencing skills, including the ability to influence when there is no direct reporting relationship",
+      "Inspires resources with limited time to get the work done and stay on track",
+      "Applies the best mix of Agile and Plan-Driven (Waterfall) by project type",
+      "Effective at managing teams split across multiple time zone sites & cultures",
+      "Excellent time management",
+      "Able to effectively navigate complex and ambiguous situations",
+      "Experienced in defining and improving processes"
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "excel"
+    ],
+    "paises": [],
+    "modalidad": []
+  },
+  {
+    "titulo": "GIS Developer - AI + Geospatial Intelligence",
+    "url": "https://www.switchsoftware.io/careers-position/gis-developer---ai-geospatial-intelligence",
+    "requisitos": [
+      "Solid knowledge of GIS principles, spatial databases, and geoprocessing techniques.",
+      "Hands-on experience with PostGIS and geospatial formats (GeoJSON, shapefiles, etc.).",
+      "Proficiency in Python, especially with Shapely, Fiona, or GeoPandas.",
+      "Degree in GIS, Geomatics, Computer Science, or a related field.",
+      "Familiarity with cloud environments (preferably AWS).",
+      "Strong communication skills and advanced English (written and spoken).",
+      "Willingness to be available for extended hours when required by project demands."
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "python",
+      "computer science",
+      "aws"
+    ],
+    "paises": [],
+    "modalidad": []
+  },
+  {
+    "titulo": "DevOps Engineer",
+    "url": "https://www.switchsoftware.io/careers-position/devops-engineer",
+    "requisitos": [
+      "5+ years of experience in a DevOps role",
+      "Experience with Python, Shell Script, PowerShell, and Azure DevOps",
+      "Experience with Azure Cloud",
+      "Advanced level of English",
+      "Excellent communication and collaboration skills",
+      "Having knowledge of REST APIs and Git is highly valued"
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "azure",
+      "python",
+      "excel",
+      "git"
+    ],
+    "paises": [],
+    "modalidad": []
+  },
+  {
+    "titulo": "Senior .NET Developer",
+    "url": "https://www.switchsoftware.io/careers-position/senior-net-developer",
+    "requisitos": [
+      "10+ years of experience developing robust web and server applications using C# or Visual Basic within the .NET / .NET Core ecosystem.",
+      "5+ years of experience with distributed systems and microservices architectures.",
+      "Bachelor’s degree in Computer Science, Engineering, or a related discipline.",
+      "Strong understanding of REST, MVC, gRPC, aspect-oriented programming, JSON, and XML.",
+      "Experience using tools like Polly, Serilog, Seq, and Telerik UI.",
+      "Experience with IIS, Windows Server, and SQL Server (clustering is a plus).",
+      "Expertise in developing multi-threaded applications and working with concurrency patterns (async/await, producer-consumer, distributed locks, TCP session control, etc.).",
+      "Strong background in SQL Server (small to large, high-volume databases), with and without ORMs (EF Core, LLBLGen).",
+      "Familiarity with bus systems such as NServiceBus, RabbitMQ, or MSMQ.",
+      "Hands-on experience in financial transaction processing, including formats like ISO-8583, BASE24, and Visa BASE I/II.",
+      "Knowledge of EMV and 3DS card technologies.",
+      "Experience with e-commerce and card-present integrations.",
+      "Experience developing mobile applications using Xamarin or similar frameworks.",
+      "Proficiency in containerization and orchestration technologies: Docker, Kubernetes, AKS (or similar).",
+      "Experience developing and optimizing applications for Microsoft Azure environments.",
+      "Familiarity with secure software development practices, including adherence to OWASP and PCI-DSS standards.",
+      "Knowledge of modern SDLC processes and development methodologies.",
+      "Experience with Git and Team Foundation Server (TFS).",
+      "Strong troubleshooting skills and the ability to work both independently and in a collaborative team environment.",
+      "Advanced English proficiency (spoken and written).",
+      "Availability for extended hours and on-call support when necessary."
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "computer science",
+      "sql",
+      "docker",
+      "azure",
+      "git"
+    ],
+    "paises": [],
+    "modalidad": []
+  },
+  {
+    "titulo": "Technical Lead",
+    "url": "https://www.switchsoftware.io/careers-position/technical-lead",
+    "requisitos": [
+      "5+ years of experience in .NET (C#) and React development.",
+      "Proven experience in leading technical teams and mentoring other developers.",
+      "Solid understanding of software architecture, design patterns, and best practices in Backend and Frontend development.",
+      "Strong experience with version control systems (Git) and Agile methodologies (Scrum, Kanban).",
+      "Excellent proficiency in English (advanced level, both written and spoken).",
+      "Strong problem-solving and troubleshooting skills with a focus on quality and performance.",
+      "Availability for occasional on-site meetings is required. We are open to candidates based in either Uruguay or Argentina."
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "react",
+      "git",
+      "scrum",
+      "excel"
+    ],
+    "paises": [],
+    "modalidad": []
+  },
+  {
+    "titulo": "Python Developer – AI + Geospatial Intelligence",
+    "url": "https://www.switchsoftware.io/careers-position/python-developer---ai-geospatial-intelligence",
+    "requisitos": [
+      "3+ years of experience in Python, building production-ready systems.",
+      "5+ years of experience as Developer",
+      "Familiarity with PostgreSQL/PostGIS.",
+      "Experience working with Docker and deploying to AWS (especially ECS, RDS).",
+      "Strong communication skills and advanced English (written and spoken).",
+      "Willingness to be available for extended hours when required by project demands."
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "python",
+      "postgres",
+      "sql",
+      "aws",
+      "docker"
+    ],
+    "paises": [],
+    "modalidad": []
+  },
+  {
+    "titulo": "Junior Python Developer",
+    "url": "https://www.switchsoftware.io/careers-position/junior-python-developer",
+    "requisitos": [
+      "1 year of experience programming in Python",
+      "Practical experience with OAuth 2.0 (e.g., understanding token flows, securing endpoints)",
+      "Familiarity with REST APIs and JSON",
+      "Experience working with version control systems (Git)",
+      "Willingness to learn and take on new challenges",
+      "Advanced English level"
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "python",
+      "git"
+    ],
+    "paises": [],
+    "modalidad": []
+  },
+  {
+    "titulo": "Senior Python Developer",
+    "url": "https://www.switchsoftware.io/careers-position/senior-python-developer",
+    "requisitos": [
+      "Expertise in FastAPI: building, testing, and deploying production-grade APIs",
+      "Solid understanding of OAuth 2.0 flows (e.g., Authorization Code, Client Credentials)",
+      "Proven experience designing and consuming OpenAPI (Swagger) definitions",
+      "Strong SQL skills and hands-on experience with SQL databases.",
+      "Experience working with at least one NoSQL database",
+      "Proficiency with version control (Git) and CI/CD pipelines",
+      "Excellent problem-solving skills and attention to detail",
+      "Advanced level of English"
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "sql",
+      "nosql",
+      "git",
+      "excel"
+    ],
+    "paises": [],
+    "modalidad": []
+  },
+  {
+    "titulo": ".NET Developer",
+    "url": "https://www.switchsoftware.io/careers-position/net-developer",
+    "requisitos": [
+      "2+ years of experience with C# / .NetCore.",
+      "Advanced English proficiency.",
+      "SQL Database knowledge (knowledge of Oracle and MongoDB is valued).",
+      "Familiarity with Azure DevOps for version control",
+      "Willingness to perform deployments outside regular hours when needed"
+    ],
+    "tipo_modalidad": "remote",
+    "requisitos_tecnologias": [
+      "mongodb",
+      "sql",
+      "azure"
+    ],
+    "paises": [],
+    "modalidad": []
+  }
+]

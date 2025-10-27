@@ -1,0 +1,151 @@
+[
+  {
+    "titulo": "Mid .NET / Typescript Full Stack Developer",
+    "href": "https://careers.crunchloop.io/jobs/5637465-mid-net-typescript-full-stack-developer",
+    "requisitos": [
+      "C# .NET (3 to 5 years): experience developing .NET applications in a professional environment with an advanced understanding of the framework.",
+      "React (1 to 3 years): experience working with React applications in production. Familiarity with advanced concepts such as SPA and Entity Manager.",
+      "TypeScript: experience using the language, even if not in a frontend context.",
+      "SQL (3 to 5 years): experience with SQL Server. Ability to work directly with databases, not just through ORMs. Schema management.",
+      "HTML/CSS (3 to 5 years): advanced proficiency in HTML and CSS.",
+      "Docker: basic knowledge, experience running applications in containers.",
+      "Azure/AWS (focus on Azure): experience deploying applications in cloud environments and interacting with Azure or AWS services.",
+      "Strong knowledge of design patterns and software architecture.",
+      "Object-oriented programming.",
+      "Ability to describe and explain advanced architecture concepts"
+    ],
+    "valorables": [
+      "Queueing systems / Events (messaging): experience handling message queues (Kafka or similar).",
+      "Tailwind: familiarity with CSS frameworks.",
+      "JavaScript (3 to 5 years): advanced level."
+    ],
+    "paises": [
+      "uruguay",
+      "argentina"
+    ],
+    "requisitos_tecnologias": [
+      "react",
+      "sql",
+      "docker",
+      "azure",
+      "aws"
+    ],
+    "valorables_tecnologias": [
+      "java",
+      "javascript"
+    ]
+  },
+  {
+    "titulo": "N³R Full Stack Dev (Node.js / React -> NestJS / Next.js)",
+    "href": "https://careers.crunchloop.io/jobs/5522150-n-r-full-stack-dev-node-js-react-nestjs-next-js",
+    "requisitos": [
+      "Backend: NestJS and/or Node JS",
+      "Frontend: NextJS and/or React"
+    ],
+    "valorables": [
+      "PostgreSQL, Redis, Kafka, Capacitor, Typescript"
+    ],
+    "paises": [
+      "uruguay",
+      "argentina"
+    ],
+    "requisitos_tecnologias": [
+      "node",
+      "react"
+    ],
+    "valorables_tecnologias": [
+      "postgres",
+      "sql"
+    ]
+  },
+  {
+    "titulo": "Mid Ruby on Rails Full Stack Dev",
+    "href": "https://careers.crunchloop.io/jobs/5252001-mid-ruby-on-rails-full-stack-dev",
+    "requisitos": [
+      "At least 2 years of hands-on experience with Ruby on Rails technologies.",
+      "Capable of building complete web applications and applying object-oriented programming principles effectively.",
+      "Competent in writing efficient and optimized code, including creating and managing queries for relational databases.",
+      "Experienced in writing and maintaining unit tests, ensuring code quality, and integrating testing into development workflows.",
+      "Competent in managing version control workflows, including resolving conflicts and handling branching strategies in collaborative environments.",
+      "Capable of developing dynamic and responsive user interfaces, with an understanding of how to improve performance and accessibility.",
+      "Familiar with creating and managing containerized applications and coordinating multi-service environments."
+    ],
+    "valorables": [
+      "Experience working with performance optimization techniques for front-end and back-end applications.",
+      "Familiarity with advanced testing strategies, such as integration or end-to-end testing.",
+      "Exposure to scalable deployment practices, including basic container orchestration tools.",
+      "Understanding of accessibility standards and how to apply them to user interfaces.",
+      "Experience mentoring junior developers or collaborating on team-wide best practices."
+    ],
+    "paises": [
+      "uruguay",
+      "argentina"
+    ],
+    "requisitos_tecnologias": [],
+    "valorables_tecnologias": []
+  },
+  {
+    "titulo": "Sr .NET Full Stack Dev",
+    "href": "https://careers.crunchloop.io/jobs/5186493-sr-net-full-stack-dev",
+    "requisitos": [
+      "7+ years of hands-on experience with .NET technologies, including C#, ASP.NET, and related frameworks.",
+      "Proven experience in architecting complex software solutions, focusing on scalability, reliability, and maintainability.",
+      "Familiarity with cloud providers (Azure) and experience designing applications for cloud environments.",
+      "Strong knowledge of SQL (SQL Server) databases, with experience in data modeling and optimization.",
+      "In-depth knowledge of design patterns, software engineering best practices, and coding standards.",
+      "Experience working in Agile/Scrum environments, with a solid understanding of DevOps principles.",
+      "Excellent verbal and written communication skills, with the ability to explain technical concepts to both technical and non-technical stakeholders."
+    ],
+    "valorables": [
+      "Familiarity with front-end development using React.",
+      "Experience setting up and maintaining CI/CD pipelines.",
+      "Experience developing and maintaining ADB2C policies."
+    ],
+    "paises": [
+      "uruguay",
+      "argentina"
+    ],
+    "requisitos_tecnologias": [
+      "azure",
+      "sql",
+      "scrum",
+      "excel"
+    ],
+    "valorables_tecnologias": [
+      "react"
+    ]
+  },
+  {
+    "titulo": "Sr Ruby on Rails Full Stack Dev",
+    "href": "https://careers.crunchloop.io/jobs/5026249-sr-ruby-on-rails-full-stack-dev",
+    "requisitos": [
+      "At least 5 years of hands-on experience with Ruby on Rails technologies.",
+      "Expertise in designing scalable, complex web applications using Ruby on Rails, applying advanced object-oriented programming principles.",
+      "Demonstrated ability to architect, optimize, and manage high-performance relational and non-relational databases.",
+      "Skilled in defining and implementing comprehensive testing strategies, including robust test coverage and automation.",
+      "Proven experience in managing Git workflows, including version control strategies and mentoring team members in best practices.",
+      "Experienced in designing full-stack solutions by integrating dynamic frontends with scalable backends, ensuring maintainability and adherence to industry best practices.",
+      "Skilled in developing and scaling containerized applications using Docker, with experience in orchestration tools for deployment.",
+      "Track record of leading technical projects, solving complex challenges, and delivering performance-optimized solutions."
+    ],
+    "valorables": [
+      "Advanced knowledge of DevOps processes, including CI/CD pipelines and scalable infrastructure management.",
+      "Hands-on experience with modern JavaScript frameworks for building dynamic, maintainable, and high-performance frontends.",
+      "Demonstrated ability to mentor and guide teams, contributing to technical decision-making at an organizational level.",
+      "Expertise in designing and managing cloud infrastructure, implementing advanced deployment strategies.",
+      "Familiarity with building and optimizing distributed database systems for scalability and reliability."
+    ],
+    "paises": [
+      "uruguay",
+      "argentina"
+    ],
+    "requisitos_tecnologias": [
+      "git",
+      "docker"
+    ],
+    "valorables_tecnologias": [
+      "java",
+      "javascript"
+    ]
+  }
+]

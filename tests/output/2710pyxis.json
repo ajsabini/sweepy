@@ -1,0 +1,171 @@
+[
+  {
+    "titulo": "Front End Developer – Kinetix",
+    "resumen": "At Kinetix, we are looking for a Front End Developer to join our teams working [...]",
+    "href": "https://pyxis.tech/jobs/front-end-developer-kinetix/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "At least 3 years of experience in Front End development and more than 5 years in development roles.",
+      "Solid experience in React.js",
+      "Advanced student of Engineering or Bachelor’s Degree in Systems.",
+      "Good command of the English language.",
+      "Residence in Uruguay"
+    ],
+    "valorables": [
+      "Previous experience in UX/UI design."
+    ],
+    "paises": [
+      "Uruguay"
+    ],
+    "requisitos_tecnologias": [
+      "react",
+      "degree",
+      "english"
+    ],
+    "valorables_tecnologias": []
+  },
+  {
+    "titulo": "Cloud Security Specialist",
+    "resumen": "The selected candidate will be a leader in the implementation of good cloud security practices, [...]",
+    "href": "https://pyxis.tech/jobs/cloud-security-specialist/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "More than 3 years of experience in Cloud Security Specialist roles or AWS and Azure environment administration.",
+      "Experience in the application of regulatory frameworks and regulated environments.",
+      "Knowledge of scripting and automation.",
+      "Tertiary or university education in related areas.",
+      "Advanced English (spoken and written).",
+      "Proactive, autonomous, responsible, and collaborative profile."
+    ],
+    "valorables": [
+      "Practical experience in AWS and Azure Cloud solutions.",
+      "Knowledge of security standards and best practices in cybersecurity.",
+      "Experience in English applied to work environments.",
+      "Proficiency in technologies such as Terraform, CloudFormation, and Networking."
+    ],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [
+      "azure",
+      "aws",
+      "english"
+    ],
+    "valorables_tecnologias": [
+      "azure",
+      "aws",
+      "english"
+    ]
+  },
+  {
+    "titulo": "QA Senior – Kinetix",
+    "resumen": "We are looking for a Technical Tester with at least 4 years of experience in [...]",
+    "href": "https://pyxis.tech/jobs/qa-senior/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [],
+    "valorables": [],
+    "paises": [
+      "Uruguay"
+    ],
+    "requisitos_tecnologias": [],
+    "valorables_tecnologias": []
+  },
+  {
+    "titulo": "Data Engineer",
+    "resumen": "We are looking for AWS, Azure, GCP and Databricks Data Engineers to join the PYXIS [...]",
+    "href": "https://pyxis.tech/jobs/data-engineer/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "+2 years of experience in Data Engineer/Data Analyst roles working on projects with technologies such as: Python, PySpark and SQL/T-SQL (or similar).",
+      "+2 years of experience working on AWS, Azure, GCP or Databricks cloud solutions/environments."
+    ],
+    "valorables": [
+      "AWS, Azure, GCP or Databricks Certifications.",
+      "experience working with any of the following services/solutions will be a plus:\nAWS: Redshift, QuickSight, Kinesis, Athena, S3, Sagemaker, DataZone, DynamoDB, Glue, DMS, Lake Formation, Lambda and Step Functions.\nAzure: Microsoft Fabric, Power BI, Microsoft Analysis Services, Synapse Analytics, Data Explorer, Data Factory, Azure Streaming Analytics, ADLS Gen2, Azure Synapse SQL Dedicated Pools and Azure Functions.\nGCP: Looker, BigQuery, Dataflow, BigTable, Spanner, Dataproc, Dataprep, Data Fusion and Composer.\nDatabricks: Lakeflow Jobs (workflows), Delta Live Tables, Databricks SQL, Data Science & ML, Unity Catalog and Delta Lake.",
+      "AWS: Redshift, QuickSight, Kinesis, Athena, S3, Sagemaker, DataZone, DynamoDB, Glue, DMS, Lake Formation, Lambda and Step Functions.",
+      "Azure: Microsoft Fabric, Power BI, Microsoft Analysis Services, Synapse Analytics, Data Explorer, Data Factory, Azure Streaming Analytics, ADLS Gen2, Azure Synapse SQL Dedicated Pools and Azure Functions.",
+      "GCP: Looker, BigQuery, Dataflow, BigTable, Spanner, Dataproc, Dataprep, Data Fusion and Composer.",
+      "Databricks: Lakeflow Jobs (workflows), Delta Live Tables, Databricks SQL, Data Science & ML, Unity Catalog and Delta Lake.",
+      "Graduated with a degree in Computer Engineering or a Bachelor’s Degree in Systems.",
+      "English level B2."
+    ],
+    "paises": [
+      "Uruguay"
+    ],
+    "requisitos_tecnologias": [
+      "pyspark",
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "databricks"
+    ],
+    "valorables_tecnologias": [
+      "azure",
+      "aws",
+      "databricks",
+      "power bi",
+      "sql",
+      "computer engineering",
+      "degree",
+      "english"
+    ]
+  },
+  {
+    "titulo": "Machine Learning Engineer",
+    "resumen": "[...]",
+    "href": "https://pyxis.tech/jobs/machine-learning-engineer-3/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [],
+    "valorables": [],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [],
+    "valorables_tecnologias": []
+  },
+  {
+    "titulo": "Cloud Administrator",
+    "resumen": "We are looking for virtualization platform administrators based on VMWare to be part of the [...]",
+    "href": "https://pyxis.tech/jobs/cloud-administrator/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [],
+    "valorables": [],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [],
+    "valorables_tecnologias": []
+  },
+  {
+    "titulo": "SAP Commerce Cloud Backend Developers",
+    "resumen": "We are looking for SAP Commerce Cloud Backend Developers. In this project, these people will be [...]",
+    "href": "https://pyxis.tech/jobs/sap-commerce-cloud-backend-developers/",
+    "descripcion_detallada": "",
+    "requisitos": [
+      "+ 3 years of experience in SAP Commerce Cloud backend development.",
+      "+ 5 years of experience in Java development",
+      "Scrum management",
+      "Computer Engineering degree or similar",
+      "Spanish language skills"
+    ],
+    "valorables": [
+      "Experience in SAP Composable Storefront development (ex Spartacus).",
+      "English language skills"
+    ],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [
+      "sap",
+      "java",
+      "scrum",
+      "computer engineering",
+      "degree"
+    ],
+    "valorables_tecnologias": [
+      "sap",
+      "english"
+    ]
+  }
+]

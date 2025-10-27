@@ -1,0 +1,117 @@
+// tecnologias.js
+
+const TECNOLOGIAS = [
+    "ahrefs",
+    "amazon",
+    "angular",
+    "azure",
+    "aws",
+    "codeigniter",
+    "computer engineering",
+    "computer science",
+    "css3",
+    "data studio",
+    "databricks",
+    "docker",
+    "elastic",
+    "excel",
+    "express",
+    "figma",
+    "git",
+    "gitlab",
+    "google analytics",
+    "google sheets",
+    "google tag manager",
+    "html5",
+    "hotjar",
+    "isqtb",
+    "java",
+    "javascript",
+    "jenkins",
+    "jquery",
+    "kibana",
+    "kubernets",
+    "laravel",
+    "maven",
+    "mongodb",
+    "mysql",
+    "node",
+    "open apis",
+    "open telemetry",
+    "openshift",
+    "photoshop",
+    "php",
+    "postgres",
+    "power bi",
+    "prestashop",
+    "pyspark",
+    "python",
+    "react",
+    "sap",
+    "screaming frog",
+    "scrum",
+    "search console",
+    "semrush",
+    "shopify",
+    "sistrix",
+    "springboot",
+    "sql",
+    "symfony",
+    "system engineering",
+    "systems analyst",
+    "tester",
+    "vue",
+    "wildfly",
+    "wordpress",
+    "yii",
+    "qa",
+    "C#",
+    ".NetCore",
+    "nosql",
+    "Shapely",
+    "Fiona",
+    "GeoPandas",
+    "GIS",
+    "Geomatics",
+    "Computer Science",
+    "strong communication skills",
+    "english",
+    "Shell Script",
+    "PowerShell",
+    "Azure DevOps",
+    "Azure Cloud",
+    "REST APIs",
+    "10+ years of experience",
+    "5+ years of experience",
+    "distributed systems",
+    "microservices architectures",
+    "degree",
+    "mvc",
+    "gRPC",
+    "aspect-oriented programming",
+    "json",
+    "xml",
+    "Polly",
+    "Serilog",
+    "Seq",
+    "Telerik UI",
+];
+
+const extraerTecnologias = (textos) => {
+    const encontrados = new Set();
+
+    for (const linea of textos) {
+        const texto = linea.toLowerCase();
+        for (const tec of TECNOLOGIAS) {
+            if (texto.includes(tec)) {
+                encontrados.add(tec);
+            }
+        }
+    }
+
+    return Array.from(encontrados);
+};
+
+module.exports = {
+    extraerTecnologias,
+};

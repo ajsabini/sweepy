@@ -1,0 +1,238 @@
+[
+  {
+    "titulo": "Senior Java Developer (Kinetix)",
+    "resumen": "This person will join an important national client and will work on key projects related [...]",
+    "href": "https://pyxis.tech/jobs/senior-java-deveolper-kinetix/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "Advanced student or graduate of Systems Engineering, Computer Engineering, Systems Analyst or equivalent.",
+      "Solid experience (3 years or more) in:"
+    ],
+    "valorables": [
+      "Familiarity with orchestration environments such as Kubernetes and Openshift",
+      "Kibana, Elasticsearch, Open Telemetry",
+      "TMForum ODA",
+      "Open APIs",
+      "English language proficiency."
+    ],
+    "paises": [
+      "Uruguay"
+    ],
+    "requisitos_tecnologias": [
+      "computer engineering",
+      "systems analyst"
+    ],
+    "valorables_tecnologias": [
+      "openshift",
+      "elastic",
+      "kibana",
+      "open telemetry",
+      "open apis"
+    ]
+  },
+  {
+    "titulo": "Senior Java Developers",
+    "resumen": "We are looking for Senior Java Developers to join our team. These people will join [...]",
+    "href": "https://pyxis.tech/jobs/senior-java-developers/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "+ 4 years of experience developing in Java.",
+      "Solid experience in the following technologies: Kubernetes, Openshift, Springboot, Git, Gitlab CI/CD, Maven and Docker",
+      "Training in computer analyst, computer science or systems engineer.",
+      "Residence in Montevideo or nearby departments."
+    ],
+    "valorables": [
+      "English language skills"
+    ],
+    "paises": [
+      "Uruguay"
+    ],
+    "requisitos_tecnologias": [
+      "java",
+      "docker",
+      "git",
+      "gitlab",
+      "maven",
+      "openshift",
+      "springboot",
+      "computer science"
+    ],
+    "valorables_tecnologias": []
+  },
+  {
+    "titulo": "Senior Full Stack Developers (Java+React)",
+    "resumen": "These people will join a collaborative and flexible team participating in the construction of a [...]",
+    "href": "https://pyxis.tech/jobs/senior-full-stack-developers-javareact/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "+ 3 years developing in Java",
+      "Handling agile methodologies",
+      "Experience in conceptual model design",
+      "+ 2 years developing in React",
+      "Experience in rest/soap services development",
+      "1 year of experience in Spring, unit testing, code quality tools, Elastic, Wildfly, Jenkins, Docker,",
+      "Degree in Computer Analyst, Computer Science or Systems Engineering.",
+      "Intermediate English skills"
+    ],
+    "valorables": [],
+    "paises": [
+      "Uruguay"
+    ],
+    "requisitos_tecnologias": [
+      "java",
+      "react",
+      "docker",
+      "elastic",
+      "jenkins",
+      "wildfly",
+      "computer science"
+    ],
+    "valorables_tecnologias": []
+  },
+  {
+    "titulo": "SAP Commerce Cloud Backend Developers",
+    "resumen": "We are looking for SAP Commerce Cloud Backend Developers. In this project, these people will be [...]",
+    "href": "https://pyxis.tech/jobs/sap-commerce-cloud-backend-developers/",
+    "descripcion_detallada": "",
+    "requisitos": [
+      "+ 3 years of experience in SAP Commerce Cloud backend development.",
+      "+ 5 years of experience in Java development",
+      "Scrum management",
+      "Computer Engineering degree or similar",
+      "Spanish language skills"
+    ],
+    "valorables": [
+      "Experience in SAP Composable Storefront development (ex Spartacus).",
+      "English language skills"
+    ],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [
+      "sap",
+      "java",
+      "scrum",
+      "computer engineering"
+    ],
+    "valorables_tecnologias": [
+      "sap"
+    ]
+  },
+  {
+    "titulo": "QA semi senior",
+    "resumen": "We are looking for a Semi Senior QA. This person will join the Testing team, working [...]",
+    "href": "https://pyxis.tech/jobs/qa-semi-senior/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "Professional Software Tester Certificate (CES) or equivalent.",
+      "+ 3 years of manual testing experience",
+      "Advanced English"
+    ],
+    "valorables": [
+      "Studying Information Technology, Systems Engineering or equivalent.",
+      "ISTQB Foundation Level, ISTQB Agile Tester, ISTQB Advanced Test Analyst or equivalent certifications"
+    ],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [
+      "tester"
+    ],
+    "valorables_tecnologias": [
+      "tester"
+    ]
+  },
+  {
+    "titulo": "Data Engineer AWS",
+    "resumen": "Design and implement data architectures that provide the greatest possible benefit to our customers. Develop [...]",
+    "href": "https://pyxis.tech/jobs/data-engineer-aws-2/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "+2 years of experience in Data Engineer roles working on projects with technologies such as: Python, PySpark, SQL, Amazon Redshift, AWS Glue, Amazon QuickSight, Amazon Athena."
+    ],
+    "valorables": [
+      "AWS or Databricks Certifications.",
+      "experience working with AWS Databricks.",
+      "Graduated with a degree in Computer Engineering or a Bachelor’s Degree in Systems.",
+      "English level B2.",
+      "Residence in Uruguay"
+    ],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [
+      "amazon",
+      "aws",
+      "pyspark",
+      "python",
+      "sql"
+    ],
+    "valorables_tecnologias": [
+      "aws",
+      "databricks",
+      "computer engineering"
+    ]
+  },
+  {
+    "titulo": "SAP Composable Storefront Developers (ex Spartacus)",
+    "resumen": "We are looking for SAP Composable Storefront Developers (ex Spartacus). In this project, these people will [...]",
+    "href": "https://pyxis.tech/jobs/sap-composable-storefront-developers-ex-spartacus/",
+    "descripcion_detallada": "",
+    "requisitos": [
+      "+ 3 years of experience in SAP Composable Storefront development (ex Spartacus).",
+      "Angular development experience",
+      "Scrum management",
+      "Computer Engineering degree or similar",
+      "Spanish language skills"
+    ],
+    "valorables": [
+      "Experience in React.js development",
+      "Experience in SAP Commerce Backend development",
+      "English skills"
+    ],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [
+      "sap",
+      "angular",
+      "scrum",
+      "computer engineering"
+    ],
+    "valorables_tecnologias": [
+      "react",
+      "sap"
+    ]
+  },
+  {
+    "titulo": "Data Engineer Azure",
+    "resumen": "The Pyxis Data Engineering team is looking for an Azure Data Engineer. We are looking for [...]",
+    "href": "https://pyxis.tech/jobs/data-engineer-azure/",
+    "descripcion_detallada": "We are looking for talents who:",
+    "requisitos": [
+      "+3 years of experience in Data Engineer roles working on projects with technologies such as: Python, PySpark, SQL, Databricks, Azure Synapse Analytics, Azure Data Factoy and Azure Data Lake Storage.",
+      "Student about to graduate or graduated from a Computer Engineering or Systems degree.",
+      "English level B2."
+    ],
+    "valorables": [
+      "Databricks Data Analyst Associate, Databricks Data Engineer Associate or Databricks Data Engineer Professional.",
+      "Power BI Data Analyst (PL-300), Fabric Analytics Engineer Associate (DP-600) or Azure Data Engineer Associate (DP-203)."
+    ],
+    "paises": [
+      "Global"
+    ],
+    "requisitos_tecnologias": [
+      "azure",
+      "databricks",
+      "pyspark",
+      "python",
+      "sql",
+      "computer engineering"
+    ],
+    "valorables_tecnologias": [
+      "databricks",
+      "azure",
+      "power bi"
+    ]
+  }
+]
